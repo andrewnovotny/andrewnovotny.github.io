@@ -10,15 +10,15 @@ title: Andrew Novotny's Blog
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: /assets/images/light_bauhaus_logo.png
+lightavatar: /assets/images/Novotny.png
 # Avatar for dark mode site
-darkavatar: /assets/images/dark_bauhaus_logo.png
+darkavatar: /assets/images/Novotny.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
-tagline: Blog for random Mechanical Engineering related wit and wisdom.
+tagline: Random wit and wisdom
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
+description: Random wit and wisdom put together for my own enjoyment. Topics will likely include design, fabrication, surfing, and a dash of philisophy.
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url: AndrewNovotny.github.io
@@ -33,7 +33,7 @@ baseurl: ""
 author: Andrew Novotny
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
-logo: /assets/images/light_bauhaus_logo.png
+logo: /assets/images/Novotny.png
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:

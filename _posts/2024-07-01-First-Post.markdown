@@ -3,14 +3,14 @@ layout: post
 title: First Post/Intro
 ---
 
-## Intro (h2)
+## Intro
 Hello and welcome to my experiment of a website. Hoping to update this semi-regularly, but we've all said that before.
 
 This blog will be short to medium form writings and updates on my various projects and activities.
 
 If you ever have questions about my projects or want to chat through something, don't be afraid to reach out.
 
-## Background (h2)
+## Background
 I was born and raised in the North East. I hate to say "I was groomed to engineering from a young age", but by the time I was in middle school, I knew what I was going to do. 
 Throughout school, I did fine academically, but loved competing and pushing myself to see what was possible. 
 Something about pushing myself to find the end of my capability felt right.
@@ -41,6 +41,6 @@ on adding new capability to Falcon and managing ongoing maintenance since. Main 
 - Architecting a project management system
 - 3117mm PLA Stand (First use on HaloPPE)
 
-## Conclusion (h2)
-This is a general cross-section of my life thus far. More depth will be added at sporadic intervals through the miscellaneous stories and projects I post about in the future.
+## Conclusion
+This is a general cross-section of my life thus far. More depth will be added at sporadic intervals through the miscellaneous stories and projects I share here.
 
