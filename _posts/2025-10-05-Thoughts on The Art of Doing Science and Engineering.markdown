@@ -4,8 +4,12 @@ title: Thoughts on The Art of Doing Science and Engineering
 ---
 
 ## Intro
-After stumbling onto a half-dozen people recommending this book on X.com (The Everything App™), I figured I'd give it a read. The main 
-![The Art of Doing Science and Engineering Cover from LibroLabro.com]({{site.baseurl}}/assets/images/ArtofDoingScienceandEngineeringCover.webp =200x "The Art of Doing Science and Engineering Cover from LibroLabro.com")
+After stumbling onto a half-dozen people recommending this book on X.com (The Everything App™), I figured I'd give it a read. Recomendations were hyperbolic as they usually are, but
+from the premise and background of Richard Hamming I was a least intrigued. Poking around online for a copy ended up being more of an adventure than I bargained for as the book
+hadn't been in print for a few years and most places were stocked out for 2-3 months. I finally tracked a copy down off eBay after a few days of searching.
+
+Unrelated to the contents, the cover looks pretty bad ass. 
+![The Art of Doing Science and Engineering Cover from LibroLabro.com]({{site.baseurl}}/assets/images/TAODSE_Cover.jpeg =200x "The Art of Doing Science and Engineering Cover from LibroLabro.com")
 
 ## Background
 I was born and raised in the North East. I hate to say "I was groomed to engineering from a young age", but by the time I was in middle school, I knew what I was going to do. 
