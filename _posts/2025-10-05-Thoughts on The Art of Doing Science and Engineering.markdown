@@ -15,7 +15,7 @@ while **The Creative Act** was more focused on Rubin's method of finding inspira
 theory/math based portions are for example of his thinking process and not 100% critical to enjoyment of the book.
 
 Unrelated to the contents, the cover looks pretty bad ass. 
-![The Art of Doing Science and Engineering Cover]({{site.baseurl}}/assets/images/TAODSE_Cover.jpeg "The Art of Doing Science and Engineering Cover")
+<img src={{site.baseurl}}/assets/images/TAODSE_Cover.jpeg alt="The Art of Doing Science and Engineering Cover" width="250"/>
 
 ## Favorite Parts
 S-Tier Chapters: 26, 27, 28, 29, and 30 
