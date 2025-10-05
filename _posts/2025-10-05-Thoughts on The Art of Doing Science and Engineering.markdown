@@ -5,7 +5,7 @@ title: Thoughts on The Art of Doing Science and Engineering
 
 ## Intro
 After stumbling onto a half-dozen people recommending this book on X.com (The Everything App™), I figured I'd give it a read. The main 
-![The Art of Doing Science and Engineering Cover from LibroLabro.com](assets\images\ArtofDoingScienceandEngineeringCover.webp "The Art of Doing Science and Engineering Cover from LibroLabro.com")
+![The Art of Doing Science and Engineering Cover from LibroLabro.com](https://github.com/andrewnovotny/andrewnovotny.github.io/blob/main/assets/images/ArtofDoingScienceandEngineeringCover.webp "The Art of Doing Science and Engineering Cover from LibroLabro.com")
 
 ## Background
 I was born and raised in the North East. I hate to say "I was groomed to engineering from a young age", but by the time I was in middle school, I knew what I was going to do. 
